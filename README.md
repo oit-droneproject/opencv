@@ -1,7 +1,7 @@
 # Opencv
 このページではTelloにおけるOpenccvの使い方について記述する．
 ## Tello Video
-次のコードは Tello カメラを使用するためのものです。コードを実行して Telle と OpenCV を確認してください。
+次のコードは Tello カメラを使用するためのものである．以下のコードを実行して Telle と OpenCV を確認すること．
 ### sample01.py
 ```python
 import cv2
