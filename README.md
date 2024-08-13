@@ -1,5 +1,5 @@
-# Integration
-On this page you will learn how to use opencv and DJItellopy in an integrated way. Students who have already learned opencv can start from this page.
+# Opencv
+このページではTelloにおけるOpenccvの使い方について記述する．
 ## Tello Video
 The following code is for using the Tello camera. Run the code to check Telle and OpenCV.
 ### sample01.py
