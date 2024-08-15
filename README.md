@@ -1,9 +1,6 @@
 # OpenCV
-OpenCV (Open Source Computer Vision) is an open-source library designed to facilitate computer vision tasks, such as image processing, object detection, and image recognition. It provides a collection of programming functions and algorithms that enable developers to perform various vision-related operations.
-
-OpenCV supports multiple programming languages, including C++, Python, Java, and more, making it accessible to a wide range of developers. It offers a comprehensive set of functionalities for image and video processing, including image filtering, feature extraction, object tracking, camera calibration, machine learning, and more.
-
-With OpenCV, developers can read and write images and videos, implement various image processing algorithms, perform feature detection and description, conduct object detection and tracking, and apply advanced computer vision techniques to analyze and manipulate visual data. It also provides tools for camera calibration, which is useful for computer vision applications involving camera geometries and 3D reconstruction.
+OpenCV (Open Source Computer Vision) は、画像処理、物体検出、画像認識などの画像処理を容易に実行できるように設計されたオープンソースライブラリです．
+またOpenCV は、C++、Python、Java など複数のプログラミング言語で使用可能であり，画像やビデオの読み取りと書き込み，さまざまな画像処理アルゴリズムの実装、特徴の検出と記述の実行、オブジェクトの検出と追跡の実行、高度なコンピューター ビジョン技術の適用による視覚データの分析と操作を行うことができます。また，カメラ，ジオメトリと3Dの構築を含む画像処理に役立つツールも提供されます．
 
 
 ## Simple image viewer
