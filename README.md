@@ -28,9 +28,10 @@ print(img.shape)
 ```
 ---
 ## RGB
- RGB stands for Red, Green, and Blue, which are the primary colors of light. RGB is a color model used to represent and display colors on electronic devices such as computer screens, televisions, and digital cameras. Each color in the RGB model is represented by a value ranging from 0 to 255, where 0 represents no intensity of that color, and 255 represents the highest intensity.
+ RGBとはRed（赤），Green（緑），Blue（青）の頭文字をとったもので，光の原色です．
+ RGBは，コンピュータ画面，テレビ、デジタルカメラなどの電子機器で色を表現し，表示するために使用されるカラーモデルです．RGBモデルの各色は0から255までの値で表され，0はその色の強度がないことを表し，255は最大の強度を表します．
 ## BRG(Opencv)
-
+ただし，OpencvにおいてはBGRとなっているためTelloで使用する場合は注意が必要となります．
 Row (height) x Column (width) x Colour (3)
 - Blue
 - Green
