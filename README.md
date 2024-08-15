@@ -68,7 +68,7 @@ if __name__ == '__main__':
 ```
 ---
 ## Camera capture
-This code uses OpenCV to capture video feed from a camera and display it in a window.
+このコードはカメラをOpencvで使用するシンプルなコードです．出力結果とコード確認してください．
 ### opencv_sample_02.py
 
 ```python
