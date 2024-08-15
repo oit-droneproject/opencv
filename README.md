@@ -40,7 +40,7 @@ Row (height) x Column (width) x Colour (3)
 
 ## Simple image manipulation
 ### opencv_sample_01.py
-This code is a code that outputs various blue colours
+以下のコードはRGBを色をそれぞれ変化させるためのコードです．出力結果とコード確認してください．
 
 ```python
 import cv2
