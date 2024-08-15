@@ -5,14 +5,14 @@ OpenCV (Open Source Computer Vision) は、画像処理、物体検出、画像�
 
 ## Simple image viewer
 ### opencv_sample_00.py
-This code is an example of using the OpenCV library to read and display an image file. 
+このコードは，OpenCV ライブラリを使用して画像ファイルを読み取って表示する例です．
 ```bash
 mkdir python_opencv
 cd python_opencv
 ```
 ![image00.jpg](image/image00.jpg "image00.jpg")
 
-Please download the following image as 'image00.jpg' into ~/python_opencv
+'image00.jpg'をダウンロードして以下のディレクトリに保存しましょう． ~/python_opencv
 
 ```python
 import cv2
