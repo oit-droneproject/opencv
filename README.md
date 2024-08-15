@@ -95,7 +95,8 @@ if __name__ == '__main__':
 ```
 ---
 ## HSV
-HSV stands for Hue, Saturation, and Value, and it is a color model commonly used in image processing and computer graphics. It represents colors based on these three attributes, allowing for more intuitive manipulation and understanding of color.
+HSV は色相、彩度、明度の略で、画像処理やコンピュータグラフィックスでよく使用されるカラーモデルです。この 3 つの属性に基づいて色を表すことで、より直感的に色を操作したり理解したりすることができます 。
+
 [HSV](https://en.wikipedia.org/wiki/HSL_and_HSV)
 ## HSV(opencv)
 - hue :0 - 180
