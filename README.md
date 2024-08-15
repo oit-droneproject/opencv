@@ -7,6 +7,7 @@ OpenCV (Open Source Computer Vision) は、画像処理、物体検出、画像�
 ### opencv_sample_00.py
 このコードは，OpenCV ライブラリを使用して画像ファイルを読み取って表示する例です．
 ```bash
+#Linux
 mkdir python_opencv
 cd python_opencv
 ```
