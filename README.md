@@ -118,7 +118,7 @@ if __name__ == '__main__':
 ```
 ---
 ## Detect asian skin color region
-This code uses OpenCV to perform color-based object detection and highlighting in a video feed.
+このコードはOpenCVを使用して，ビデオ フィード内の色ベース（アジア人の肌色）のオブジェクト検出と強調表示を行います．出力結果とコード確認してください．
 ### opencv_sample_04.py
 ```sh
 python opencv_sample_04.py
