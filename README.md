@@ -103,7 +103,7 @@ HSV は色相、彩度、明度の略で、画像処理やコンピュータグ�
 - Saturation:0 - 255
 - value:0 - 255 
 ## Change color spaces (BGR to HSV) 
-This code snippet demonstrates how to convert a BGR color value to its corresponding HSV representation using OpenCV.
+このコードは、OpenCVを使用してBGRに対応するHSVに変換するものです．出力結果とコード確認してください．
 
 ### opencv_sample_03.py
 
