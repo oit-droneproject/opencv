@@ -158,7 +158,7 @@ if __name__ == '__main__':
 ```
 ---
 ## Color Picker
-The following code displays the rgp and hsv values around the clicked location.
+次のコードは、クリックした場所の周囲のRGBの値とHSVの値を表示します。
 ### opencv_sample_05.py
 
  
