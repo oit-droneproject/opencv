@@ -257,6 +257,5 @@ if __name__ == '__main__':
 ```
 
 ## Exercises 
-1. Make a program that detects and prints the center (x, y) and the size (width, height) of multiple red objects with an image coordinate.
-
-2. Make a program that detects and prints the center (x, y) and the size (width, height) of multiple red objects and green objects at the same time with an image coordinate.
+1. 画像座標を使用して、複数の赤いオブジェクトの中心 (x, y) とサイズ (幅、高さ) を検出して出力するプログラムを作成しましょう．
+2. 画像座標で複数の赤い物体と緑の物体の中心（x, y）と大きさ（幅、高さ）を同時に検出して出力するプログラムを作成しましょう．
