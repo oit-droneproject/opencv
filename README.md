@@ -19,7 +19,7 @@ cd python_opencv
 import cv2
 
 WINNAME = "OpenCV Sample 00"
-img = cv2.imread('./image00.jpg')
+img = cv2.imread('./image00.png')
 cv2.imshow(WINNAME, img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
