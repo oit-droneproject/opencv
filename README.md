@@ -11,7 +11,7 @@ OpenCV (Open Source Computer Vision) は、画像処理、物体検出、画像�
 mkdir python_opencv
 cd python_opencv
 ```
-![image00.jpg](image/image00.jpg "image00.jpg")
+![image00.jpg](https://github.com/oit-droneproject/opencv/blob/main/image00.png)
 
 'image00.jpg'をダウンロードして以下のディレクトリに保存しましょう． ~/python_opencv
 
