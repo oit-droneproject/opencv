@@ -195,6 +195,7 @@ cv2.destroyAllWindows()
  ```
 ---
 ## Detect center and the size for each contour
+以下のプログラムは，OpenCVライブラリを使用してカメラから特定の色（この場合は肌色）を検出し，その領域を緑色に変換するものです．出力結果とコード確認してください．
 ### python opencv_sample_06.py
 ```python
 import cv2
